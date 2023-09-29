@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edgarcancinoe, Robotics student at Tec de Monterrey
-- 👀 I’m interested in Tech, AI & Automation
+- 👀 I’m interested in Tech, AI & ML
 - 🌱 I’m currently learning AI, Robotics & Data Science
 - 📫 How to reach me: edgarcancinoe@gmail.com
 
