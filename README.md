@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edgarcancinoe, Robotics Engineer and MSc Student in Artificial Intelligence.
-- 👀 Look at my projects in <a href="edgarcancinoe.github.io">my portfolio page</a>.
+- 👀 Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio page</a>.
 - 📫 Reach me: edgarcancinoe@outlook.com
 
 <!---
