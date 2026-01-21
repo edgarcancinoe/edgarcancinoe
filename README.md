@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @edgarcancinoe, Robotics Engineer and MSc Student in Artificial Intelligence at ![EMAI](https://www.upf.edu/web/emai).
+👋 Hi, I’m @edgarcancinoe, Robotics Engineer and MSc Student in Artificial Intelligence at [EMAI](https://www.upf.edu/web/emai).
 Currently doing Research at University of Ljubljana, Sloveania
 - VLA models for robotic manipulation
 - Concept Editing in Diffusion Models
