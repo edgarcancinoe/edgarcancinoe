@@ -60,7 +60,7 @@
 
 
 <!-- Featured Repos -->
-
+<br>
 <div align="center">
 
   <a href="https://github.com/edgarcancinoe/REPO_1">
@@ -82,17 +82,18 @@
   </a>
 
 </div>
-
+<br>
+<!-- Stats -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td valign="top" width="50%">
       <img
         width="460"
         src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
         alt="GitHub Streak"
       />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td valign="top" width="50%">
       <img
         width="460"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
