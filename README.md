@@ -31,7 +31,7 @@
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
     <!-- GitRoll (left) -->
-    <td valign="top" width="40%">
+    <td valign="top" width="50%">
       <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank" rel="noopener noreferrer">
         <img width="420"
              src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
@@ -40,7 +40,7 @@
     </td>
 
   <!-- About (right) - PURE HTML -->
-  <td valign="top" width="60%">
+  <td valign="top" width="50%">
     <h2>About Me</h2>
     <p>
       👋 Hi, I’m <b>@edgarcancinoe</b>, Robotics Engineer and MSc Student in Artificial Intelligence at
@@ -65,7 +65,7 @@
        width="420"
        alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
-       width="360"
+       width="320"
        alt="Top Languages" />
 </div>
 
