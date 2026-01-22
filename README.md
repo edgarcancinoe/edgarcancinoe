@@ -59,6 +59,30 @@
 </table>
 
 
+<!-- Featured Repos -->
+
+<div align="center">
+
+  <a href="https://github.com/edgarcancinoe/REPO_1">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_1&theme=nord&hide_border=true"
+      width="32%" />
+  </a>
+
+  <a href="https://github.com/edgarcancinoe/REPO_2">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_2&theme=nord&hide_border=true"
+      width="32%" />
+  </a>
+
+  <a href="https://github.com/edgarcancinoe/REPO_3">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_3&theme=nord&hide_border=true"
+      width="32%" />
+  </a>
+
+</div>
+
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
