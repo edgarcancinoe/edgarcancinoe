@@ -21,7 +21,7 @@
 <!-- ===== Title ===== -->
 <h1 align="center">José Edgar Hernández Cancino</h1>
 <p align="center">
-  <b>Robotics Engineer • MSc Student in Artificial Intelligence (EMAI) • Research @ University of Ljubljana</b>
+  Robotics Engineer • <b>MSc Student in Artificial Intelligence (EMAI)</b> • Research @ University of Ljubljana
 </p>
 
 <hr/>
