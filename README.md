@@ -62,18 +62,18 @@
 <!-- ===== Stats row (Nord) ===== -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%" style="padding: 6px 10px 0 0;">
+    <td align="center" valign="top" width="50%" >
       <img
         src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
         alt="GitHub Streak"
-        style="width:100%; max-width:560px; height:auto; display:block;"
+        style="width:100%; height:auto; display:block;"
       />
     </td>
-    <td align="center" valign="top" width="50%" style="padding: 6px 0 0 10px;">
+    <td align="center" valign="top" width="50%" >
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
         alt="Top Languages"
-        style="width:100%; max-width:560px; height:auto; display:block;"
+        style="width:100%; height:auto; display:block;"
         />
     </td>
   </tr>
