@@ -17,15 +17,22 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
 
 <div align="center">
 
+  <!-- Top row: GitRoll (dracula) + Streak (nord) -->
   <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank">
-    <img width="420" src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula" alt="GitRoll Profile Badge"/>
+    <img width="440"
+         src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
+         alt="GitRoll Profile Badge" />
   </a>
-  <img width="420" src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12" />
+  <img width="440"
+       src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12" />
 
-  <br/>
+  <br/><br/>
 
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=nord&hide_border=true&show_icons=true&border_radius=12&hide_title=true" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6" />
+  <!-- Bottom row: Stats (nord) + Langs (nord, hide Makefile) -->
+  <img width="440"
+       src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=nord&hide_border=true&show_icons=true&border_radius=12&hide_title=true" />
+  <img width="440"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile" />
 
 </div>
 
