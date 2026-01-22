@@ -81,7 +81,7 @@
   </a>
   <a href="https://github.com/edgarcancinoe/xarm6_visual_servoing">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=xarm6_visual_servoing&theme=solarized-light&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=xarm6_visual_servoing&theme=nord&hide_border=true"
       width="32%" />
   </a>
 </div>
