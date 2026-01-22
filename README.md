@@ -21,7 +21,7 @@
 <!-- ===== Title ===== -->
 <h1 align="center">José Edgar Hernández Cancino</h1>
 <p align="center">
-  <b>Robotics Engineer</b> • MSc Student in Artificial Intelligence (EMAI) • Research @ University of Ljubljana
+  <b>Robotics Engineer • MSc Student in Artificial Intelligence (EMAI) • Research @ University of Ljubljana</b>
 </p>
 
 <hr/>
@@ -64,7 +64,7 @@
   <img src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
        width="420"
        alt="GitHub Streak" />
-  <div width="100"></div>
+  <div width="30"></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
        width="305"
        alt="Top Languages" />
