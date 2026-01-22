@@ -33,7 +33,7 @@
     <!-- GitRoll (left) -->
     <td valign="top" width="50%">
       <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank" rel="noopener noreferrer">
-        <img width="450"
+        <img width="460"
              src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
              alt="GitRoll Profile Badge" />
       </a>
@@ -61,11 +61,11 @@
 
 <!-- ===== Stats row (Nord) ===== -->
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12"
+  <img src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
        width="420"
        alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
-       width="300"
+       width="305"
        alt="Top Languages" />
 </div>
 
