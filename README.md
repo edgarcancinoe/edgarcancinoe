@@ -60,14 +60,26 @@
 
 
 <!-- ===== Stats row (Nord) ===== -->
-<div align="center">
-  <img src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
-       width="525"
-       alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
-       width="381"
-       alt="Top Languages" />
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%" style="padding: 10px 8px 0 0;">
+      <img
+        src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
+        width="100%"
+        style="max-width: 620px;"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center" width="50%" style="padding: 10px 0 0 8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
+        width="100%"
+        style="max-width: 620px;"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
