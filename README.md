@@ -17,21 +17,23 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
 
 <div align="center">
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+    <td align="center">
+      <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank">
+        <img width="420" src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=midnight" alt="GitRoll Profile Badge"/>
+      </a>
     </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=edgarcancinoe&theme=default&hide_border=false" />
+    <td align="center">
+      <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=edgarcancinoe&theme=default&hide_border=false" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=default&hide_border=false&layout=compact" />
+    <td align="center">
+      <img width="420" src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
-    <td colspan="2" align="center">
-    <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=midnight" alt="GitRoll Profile Badge"/></a>
+    <td align="center">
+      <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=default&hide_border=false&layout=compact" />
     </td>
   </tr>
 </table>
