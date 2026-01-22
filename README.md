@@ -25,15 +25,18 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
       </a>
     </td>
     <td align="center">
-      <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=edgarcancinoe&theme=default&hide_border=false" />
+      <img width="420"
+           src="https://nirzak-streak-stats.vercel.app/?user=edgarcancinoe&theme=tokyonight&hide_border=true&border_radius=12" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="420" src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+      <img width="420"
+           src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=tokyonight&hide_border=true&show_icons=true&border_radius=12" />
     </td>
     <td align="center">
-      <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=default&hide_border=false&layout=compact" />
+      <img width="420"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" />
     </td>
   </tr>
 </table>
