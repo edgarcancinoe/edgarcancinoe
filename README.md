@@ -22,35 +22,37 @@
 <hr/>
 
 <!-- ===== About + GitRoll side-by-side (pure HTML, GitHub-safe) ===== -->
+
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
-    <!-- About (left) -->
-    <td valign="top" width="58%">
-      <h2>About</h2>
-      <p>
-        I build learning-based robotic systems and work on generative model safety/editing.
-        Currently in the <a href="https://www.upf.edu/web/emai" target="_blank" rel="noopener noreferrer">EMAI</a> MSc,
-        doing research at the University of Ljubljana (Slovenia).
-      </p>
-      <ul>
-        <li><b>VLA models</b> for robotic manipulation (vision-language-action)</li>
-        <li><b>Concept editing</b> in diffusion models (steering / unlearning)</li>
-      </ul>
-      <p>
-        Projects & demos: <a href="https://edgarcancinoe.github.io" target="_blank" rel="noopener noreferrer"><b>edgarcancinoe.github.io</b></a>
-      </p>
-    </td>
-
-    <!-- GitRoll (right) -->
-    <td valign="top" width="42%" align="right">
+    <!-- GitRoll (left) -->
+    <td valign="top" width="42%">
       <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank" rel="noopener noreferrer">
-        <img src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
-             width="420"
+        <img width="420"
+             src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
              alt="GitRoll Profile Badge" />
       </a>
     </td>
-  </tr>
+
+  <!-- About (right) - PURE HTML -->
+  <td valign="top" width="58%">
+    <h2>About Me</h2>
+    <p>
+      👋 Hi, I’m <b>@edgarcancinoe</b>, Robotics Engineer and MSc Student in Artificial Intelligence at
+      <a href="https://www.upf.edu/web/emai" target="_blank" rel="noopener noreferrer">EMAI</a>.<br/>
+      Currently doing research at University of Ljubljana, Slovenia.
+    </p>
+    <ul>
+      <li>VLA models for robotic manipulation</li>
+      <li>Concept editing in diffusion models</li>
+    </ul>
+    <p>
+      Look at my projects in <a href="https://edgarcancinoe.github.io" target="_blank" rel="noopener noreferrer">my portfolio page</a>.
+    </p>
+  </td>
+    </tr>
 </table>
+
 
 <!-- ===== Stats row (Nord) ===== -->
 <div align="center">
