@@ -64,17 +64,17 @@
 <div align="center">
   <a href="https://github.com/edgarcancinoe/xArm6_DDPG_ROS">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_2&theme=nord&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=xArm6_DDPG_ROS&theme=nord&hide_border=true"
       width="32%" />
   </a>
     <a href="https://github.com/edgarcancinoe/T3003B_IntelligentRobotics">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_1&theme=nord&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=T3003B_IntelligentRobotics&theme=nord&hide_border=true"
       width="32%" />
   </a>
   <a href="https://github.com/edgarcancinoe/xarm6_visual_servoing">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_3&theme=nord&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=xarm6_visual_servoing&theme=nord&hide_border=true"
       width="32%" />
   </a>
 </div>
