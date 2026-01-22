@@ -91,7 +91,7 @@
       />
     </td>
 
-  <td valign="top" width="50%">
+  <td valign="top" width="50%" padding="20, 0, 0, 0>
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
         alt="Top Languages"
