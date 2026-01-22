@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-### Featured
+## Featured
 <!-- Featured Repos -->
 <br>
 <div align="center">
@@ -78,12 +78,8 @@
       width="32%" />
   </a>
 </div>
-<br>
 
-
-
-<br>
-
+## Stats
 <!-- Stats -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
