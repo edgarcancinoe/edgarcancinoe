@@ -1,18 +1,22 @@
 <!-- ===== Top bar ===== -->
 <div align="right">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=edgarcancinoe&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-    &nbsp;•&nbsp;
-    <a href="https://edgarcancinoe.github.io" target="_blank" rel="noopener noreferrer"><b>🌐 Portfolio</b></a>
-    &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/edgar-cancino" target="_blank" rel="noopener noreferrer"><b>🧳 LinkedIn</b></a>
-    &nbsp;|&nbsp;
-    <a href="https://youtube.com/@edgarcancino9635" target="_blank" rel="noopener noreferrer"><b>📺 YouTube</b></a>
-    &nbsp;|&nbsp;
-    <a href="mailto:edgarcancinoe@outlook.com"><b>✉️ Email</b></a>
+    <img src="https://komarev.com/ghpvc/?username=edgarcancinoe&label=Profile%20views&color=798BF0&style=flat-square" alt="Profile views" />
+    &nbsp;&nbsp;
+    <a href="https://edgarcancinoe.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/edgar-cancino" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://youtube.com/@edgarcancino9635" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+    </a>
+    <a href="mailto:edgarcancinoe@outlook.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
   </p>
 </div>
-
 <!-- ===== Title ===== -->
 <h1 align="center">José Edgar Hernández Cancino</h1>
 <p align="center">
