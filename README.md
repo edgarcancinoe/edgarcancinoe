@@ -62,20 +62,17 @@
 <!-- Featured Repos -->
 <br>
 <div align="center">
-
-  <a href="https://github.com/edgarcancinoe/REPO_1">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_1&theme=nord&hide_border=true"
-      width="32%" />
-  </a>
-
-  <a href="https://github.com/edgarcancinoe/REPO_2">
+  <a href="https://github.com/edgarcancinoe/xArm6_DDPG_ROS">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_2&theme=nord&hide_border=true"
       width="32%" />
   </a>
-
-  <a href="https://github.com/edgarcancinoe/REPO_3">
+  <a href="https://github.com/edgarcancinoe/T3003B_IntelligentRobotics">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_1&theme=nord&hide_border=true"
+      width="32%" />
+  </a>
+  <a href="https://github.com/edgarcancinoe/xarm6_visual_servoing">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_3&theme=nord&hide_border=true"
       width="32%" />
@@ -83,25 +80,27 @@
 
 </div>
 <br>
+
 <!-- Stats -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img
+     <img
         width="460"
         src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
         alt="GitHub Streak"
       />
     </td>
-    <td valign="top" width="50%">
-      <img
-        width="460"
+
+  <td valign="top" width="50%">
+    <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
         alt="Top Languages"
       />
-    </td>
-  </tr>
+  </td>
+    </tr>
 </table>
+
 <hr/>
 
 ## Stack:
