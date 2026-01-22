@@ -69,13 +69,12 @@
         style="width:100%; max-width:560px; height:auto; display:block;"
       />
     </td>
-
     <td align="center" valign="top" width="50%" style="padding: 6px 0 0 10px;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
         alt="Top Languages"
         style="width:100%; max-width:560px; height:auto; display:block;"
-      />
+        />
     </td>
   </tr>
 </table>
