@@ -1,15 +1,12 @@
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
-    <!-- GitRoll (left) -->
     <td valign="top" width="42%">
-      <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank">
+      <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank" rel="noopener noreferrer">
         <img width="420"
              src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
              alt="GitRoll Profile Badge" />
       </a>
     </td>
-
-    <!-- About Me (right) - PURE HTML (no markdown) -->
     <td valign="top" width="58%">
       <h3>About Me</h3>
       <p>
@@ -27,6 +24,13 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img width="420"
+       src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12" />
+  <img width="420"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile" />
+</div>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-cancino) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edgarcancino9635) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarcancinoe@outlook.com) 
