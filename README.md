@@ -59,26 +59,24 @@
 </table>
 
 
-<!-- ===== Stats row (Nord) ===== -->
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%" >
+    <td align="center" valign="top" width="50%">
       <img
+        width="460"
         src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
         alt="GitHub Streak"
-        style="width:100%; height:auto; display:block;"
       />
     </td>
-    <td align="center" valign="top" width="50%" >
+    <td align="center" valign="top" width="50%">
       <img
+        width="460"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
         alt="Top Languages"
-        style="width:100%; height:auto; display:block;"
-        />
+      />
     </td>
   </tr>
 </table>
-
 <hr/>
 
 ## Stack:
