@@ -28,7 +28,7 @@
 
 <!-- ===== About + GitRoll side-by-side -->
 
-<table border="0" cellpadding="14" cellspacing="0" width="100%">
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <!-- GitRoll (left) -->
     <td valign="top" width="50%">
@@ -77,7 +77,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_3&theme=nord&hide_border=true"
       width="32%" />
   </a>
-
 </div>
 <br>
 
