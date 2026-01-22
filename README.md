@@ -1,22 +1,23 @@
 <!-- ===== Top bar ===== -->
 <div align="right">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=edgarcancinoe&label=Profile%20views&color=798BF0&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=edgarcancinoe&label=Profile%20views&color=798BF0&style=for-the-badge" alt="Profile views" />
     &nbsp;&nbsp;
-    <a href="https://edgarcancinoe.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" />
+    <a href="https://edgarcancinoe.github.io" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/edgar-cancino" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <a href="https://linkedin.com/in/edgar-cancino" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@edgarcancino9635" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+    <a href="https://youtube.com/@edgarcancino9635" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    <a href="mailto:edgarcancinoe@outlook.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <a href="mailto:edgarcancinoe@outlook.com" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
+
 <!-- ===== Title ===== -->
 <h1 align="center">José Edgar Hernández Cancino</h1>
 <p align="center">
