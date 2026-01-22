@@ -22,27 +22,27 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
     <td align="center">
       <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank">
         <img width="420"
-             src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=midnight"
+             src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
              alt="GitRoll Profile Badge"/>
       </a>
     </td>
     <td align="center">
-      <!-- streak: use the main streak-stats endpoint (more reliable) -->
       <img width="420"
-           src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=21600&v=1" />
+           src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=dracula&hide_border=true&border_radius=12" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <img width="420"
-           src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=tokyonight&hide_border=true&show_icons=true&border_radius=12&cache_seconds=21600&v=1" />
+           src="https://github-readme-stats.vercel.app/api?username=edgarcancinoe&theme=dracula&hide_border=true&show_icons=true&border_radius=12" />
     </td>
     <td align="center">
       <img width="420"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=tokyonight&hide_border=true&layout=compact&border_radius=12&cache_seconds=21600&v=1" />
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=dracula&hide_border=true&layout=compact&border_radius=12" />
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
