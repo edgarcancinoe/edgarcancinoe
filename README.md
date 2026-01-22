@@ -67,7 +67,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_2&theme=nord&hide_border=true"
       width="32%" />
   </a>
-  <a href="https://github.com/edgarcancinoe/T3003B_IntelligentRobotics">
+    <a href="https://github.com/edgarcancinoe/T3003B_IntelligentRobotics">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=edgarcancinoe&repo=REPO_1&theme=nord&hide_border=true"
       width="32%" />
@@ -86,7 +86,6 @@
   <tr>
     <td valign="top" width="50%">
      <img
-        width="460"
         src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
         alt="GitHub Streak"
       />
