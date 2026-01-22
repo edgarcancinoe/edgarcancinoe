@@ -26,7 +26,7 @@
 
 <hr/>
 
-<!-- ===== About + GitRoll side-by-side (pure HTML, GitHub-safe) ===== -->
+<!-- ===== About + GitRoll side-by-side -->
 
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
@@ -60,7 +60,7 @@
 
 
 <!-- ===== Stats row (Nord) ===== -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="14" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%" style="padding: 6px 10px 0 0;">
       <img
