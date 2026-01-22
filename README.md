@@ -1,28 +1,30 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
     <!-- GitRoll (left) -->
-    <td valign="top" width="40%" align="right" style="padding-left:16px;">
+    <td valign="top" width="42%">
       <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank">
-    <img width="440"
-         src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
-         alt="GitRoll Profile Badge" />
-  </a>
-    </td>
-    <!-- About Me (right) -->
-    <td valign="top" width="60%" style="padding-right:16px;">
-
-### About Me:
-👋 Hi, I’m @edgarcancinoe, Robotics Engineer and MSc Student in Artificial Intelligence at <a href="https://www.upf.edu/web/emai">EMAI</a>.  
-Currently doing research at University of Ljubljana, Slovenia.
-
-- VLA models for robotic manipulation  
-- Concept editing in diffusion models  
-
-Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio page</a>.
-
+        <img width="420"
+             src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=dracula"
+             alt="GitRoll Profile Badge" />
+      </a>
     </td>
 
-    
+    <!-- About Me (right) - PURE HTML (no markdown) -->
+    <td valign="top" width="58%">
+      <h3>About Me</h3>
+      <p>
+        👋 Hi, I’m <b>@edgarcancinoe</b>, Robotics Engineer and MSc Student in Artificial Intelligence at
+        <a href="https://www.upf.edu/web/emai">EMAI</a>.<br/>
+        Currently doing research at University of Ljubljana, Slovenia.
+      </p>
+      <ul>
+        <li>VLA models for robotic manipulation</li>
+        <li>Concept editing in diffusion models</li>
+      </ul>
+      <p>
+        Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio page</a>.
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -35,11 +37,9 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
 ## GitHub Stats
 
 <div align="center">
-  <!-- Row: Streak + Langs (same width) -->
   <img width="420"
        src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12" />
   <img width="420"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile" />
 </div>
-
 ---
