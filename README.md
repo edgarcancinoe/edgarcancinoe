@@ -25,13 +25,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img width="420"
-       src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=nord&hide_border=true&border_radius=12" />
-  <img width="420"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile" />
-</div>
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-cancino) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@edgarcancino9635) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarcancinoe@outlook.com) 
 
@@ -46,4 +39,5 @@
   <img width="420"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile" />
 </div>
+
 ---
