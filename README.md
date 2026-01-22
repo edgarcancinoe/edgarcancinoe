@@ -30,6 +30,9 @@ Look at my projects in <a href="https://edgarcancinoe.github.io">my portfolio pa
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=default&hide_border=false&layout=compact" />
     </td>
+    <td colspan="2" align="center">
+    <a href="https://gitroll.io/profile/uqKqJRonv70SClyRXZahm7EWZWH62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqKqJRonv70SClyRXZahm7EWZWH62?theme=midnight" alt="GitRoll Profile Badge"/></a>
+    </td>
   </tr>
 </table>
 
