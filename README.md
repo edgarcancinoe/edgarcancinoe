@@ -64,7 +64,7 @@
   <img src="https://streak-stats.vercel.app/?user=edgarcancinoe&theme=solarized-light&hide_border=true&border_radius=12"
        width="420"
        alt="GitHub Streak" />
-  <div width="30"></div>
+  <div width="10"></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=noctis_minimus&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
        width="305"
        alt="Top Languages" />
