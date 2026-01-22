@@ -65,7 +65,7 @@
        width="420"
        alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcancinoe&theme=nord&hide_border=true&layout=compact&border_radius=12&langs_count=6&hide=Makefile"
-       width="420"
+       width="380"
        alt="Top Languages" />
 </div>
 
